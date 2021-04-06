@@ -1,5 +1,5 @@
 {
-  frame:[
+  "frame":[
     "https://raw.githubusercontent.com/ofirm109/tutorial/main/frame/f-01.png",
     "https://raw.githubusercontent.com/ofirm109/tutorial/main/frame/f-02.png",
     "https://raw.githubusercontent.com/ofirm109/tutorial/main/frame/f-03.png",
@@ -20,7 +20,7 @@
     "https://raw.githubusercontent.com/ofirm109/tutorial/main/frame/f-18.png",
     "https://raw.githubusercontent.com/ofirm109/tutorial/main/frame/f-19.png"
   ],
-  sticer:[
+  "sticer":[
     "https://raw.githubusercontent.com/ofirm109/tutorial/main/sticers/s-01.png",
     "https://raw.githubusercontent.com/ofirm109/tutorial/main/sticers/s-02.png",
     "https://raw.githubusercontent.com/ofirm109/tutorial/main/sticers/s-03.png",
